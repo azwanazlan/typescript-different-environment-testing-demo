@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 4. Start the application
 
-   ```sh
+    ```sh
    npm run start
 
 With these steps, the application will read the JSON file with the value according to the 'staging' environment.

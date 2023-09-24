@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://staging.example.com",
+    "username": "staging_user",
+    "password": "staging_password"
+  }

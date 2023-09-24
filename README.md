@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 3. Change the environment variable in the .env file to 'staging':
 
   ```sh
-  Edit the .env file to set the environment variable to 'staging'
+ # Edit the .env file to set the environment variable to 'staging'
 
 4. Start the application
 
